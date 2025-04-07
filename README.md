@@ -30,10 +30,12 @@ Este repositorio contiene información, apuntes y ejemplos relacionados con el d
 - ¿Qué es Maven? ¿Por qué usarlo?
 - Estructura típica de un proyecto Maven
 - Gestión de dependencias y plugins
-- Arquitecturas comunes en microservicios:
-  - Arquitectura en capas
-  - Arquitectura hexagonal
-  - Arquitectura basada en servicios
+- Arquitecturas de software:
+  - Arquitectura cliente-servidor
+  - Arquitectura broker
+  - Arquitectura event-bus
+  - Arquitectura MVC
+  - Arquitectura por capas: presentacion, servicio, persistencia, integracion, seguridad
 
 ---
 
@@ -41,13 +43,8 @@ Este repositorio contiene información, apuntes y ejemplos relacionados con el d
 
 > Framework clave para la creación de APIs escalables.
 
-- Introducción a Spring y su ecosistema
-- Spring Boot: configuración y convenciones
-- Controladores REST (`@RestController`)
-- Servicios, repositorios y dependencias (`@Service`, `@Repository`, `@Autowired`)
-- Spring Data JPA
-- Spring Security (básico)
-- Manejo de excepciones y validaciones
-- Pruebas unitarias e integración
+- Introducción a Spring y su ecosistema. Como funciona? Como lo uso?
+- Inyección de Dependencia.
+- Spring Boot: configuración y convenciones. Como lo uso?
 
 ---
