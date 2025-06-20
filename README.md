@@ -8,9 +8,9 @@ Contenidos por Módulo
 - [Módulo 3: Spring y Spring Boot](#módulo-3-spring-y-spring-boot)
 - [Módulo 4: Persistencia con JPA](#módulo-4-persistencia-con-jpa)
 - [Módulo 5: APIs REST](#módulo-5-apis-rest)
-- [Módulo 6: Microservicios](#modulo-6-microservicios)
+- [Módulo 6: Microservicios](#módulo-6-microservicios)
 
-Módulo 1: Java, POO y Maven
+## Módulo 1: Java, POO y Maven
 
     Principios de Programación Orientada a Objetos (POO) en Java
 
@@ -20,7 +20,7 @@ Módulo 1: Java, POO y Maven
 
     Introducción al uso de frameworks en el desarrollo Java
 
-Módulo 2: Arquitectura de Software
+## Módulo 2: Arquitectura de Software
 
     Tipos de arquitecturas: TCP/IP, arquitectura Broker, Event-Bus
 
@@ -36,7 +36,7 @@ Módulo 2: Arquitectura de Software
 
         Seguridad
 
-Módulo 3: Spring Framework
+## Módulo 3: Spring Framework
 
     Introducción a Spring y sus módulos principales
 
@@ -46,7 +46,7 @@ Módulo 3: Spring Framework
 
     Principios de Inyección de Dependencias (DI)
 
-Módulo 4: Persistencia de Datos
+## Módulo 4: Persistencia de Datos
 
     Patrón DAO (Data Access Object)
 
@@ -56,7 +56,7 @@ Módulo 4: Persistencia de Datos
 
     Manejo de transacciones y consultas (queries personalizadas y derivadas)
 
-Módulo 5: APIs REST
+## Módulo 5: APIs REST
 
     Definición y funcionamiento de una API
 
@@ -68,7 +68,7 @@ Módulo 5: APIs REST
 
     Uso de DTOs (Data Transfer Objects) y anotaciones como @RequestMapping, @GetMapping, etc.
 
-Módulo 6: Microservicios
+## Módulo 6: Microservicios
 
     Qué es un microservicio y comparación con arquitecturas monolíticas
 
