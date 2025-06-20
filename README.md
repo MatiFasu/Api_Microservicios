@@ -8,7 +8,7 @@ Contenidos por Módulo
 - [Módulo 3: Spring y Spring Boot](#módulo-3-spring-y-spring-boot)
 - [Módulo 4: Persistencia con JPA](#módulo-4-persistencia-con-jpa)
 - [Módulo 5: APIs REST](#módulo-5-apis-rest)
-- [Módulo 6: Microservicios](#módulo-6-microservicios)
+- [Módulo 6: Microservicios](#modulo-6-microservicios)
 
 Módulo 1: Java, POO y Maven
 
